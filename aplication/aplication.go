@@ -10,7 +10,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/IvanSolomatin/calc_go/pkg/calculation"
+	"github.com/9doo/Final1lic/pkg/calculation"
 )
 
 type Config struct {
