@@ -21,7 +21,7 @@
 ```
     go run ./cmd/main.go
 ```
-6. Сервис будет доступен по адресу: ```[http://localhost:8080/api/v1/calculate](http://localhost:8080/api/v1/calculate)```
+6. Сервис будет доступен по адресу: ```http://localhost:8080/api/v1/calculate```
 
 ### Как сменить порт (для Windiws)?
 1. Для этого нужно собрать calc.exe 
